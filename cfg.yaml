@@ -1,0 +1,15 @@
+# Configuration for optical flow analysis
+classify_by: "folder"  # Options: "folder" or "frame"
+motion_threshold: 4
+input_path: "/home/jason/Desktop/optical_flow/input"
+folders:
+  - "160"
+  - "161"
+  - "162"
+  - "164"
+  - "165"
+  - "200"
+  - "201"
+  - "202"
+  - "203"
+  - "204"
